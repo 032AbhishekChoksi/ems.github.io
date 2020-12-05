@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Update Info | Employee Panel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand" style="color: #ffff;">EMS Corp.</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="empindex.html">HOME</a>
+                </li>
+                <li class="active">
+                    <a href="myprofile.html">My Profile</a>
+                </li>                
+                <li>
+                    <a href="elogin.html">LOG OUT</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Body -->
+    <div class="container-fluid" style="margin-bottom: 50px;">
+        <div class="row">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4 well" style="background-color:white;">
+                <h1>Update Info</h1>
+                <form class="form-horizontal" action="empindex.html" method="GET">
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="email">Email ID</label>
+                            <input type="email" class="form-control" id="email" value="a.p.choksi420@gmail.com">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="cno">Contact Number</label>
+                            <input type="number" class="form-control" id="cno" value="7874006511">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="address">Address</label>
+                            <textarea class="form-control" rows="3" id="address"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <button type="submit" class="btn btn-success" style="margin-top: 5%;">Submit</button>
+                        </div>
+                    </div>
+                </form>
+                <form class="form-horizontal" action="changepassword.html" method="GET">
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <button type="submit" class="btn btn-success">Change Password</button>
+                        </div>
+                    </div>
+                </form>
+                
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <nav class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="container-fluid">
+            <div class="text-center">
+                <h4 style="color: #ffff;"> © 2020 Design by Abhishek Choksi & Meet Patel</h3>
+            </div>
+        </div>
+    </nav>
+</body>
+
+</html>

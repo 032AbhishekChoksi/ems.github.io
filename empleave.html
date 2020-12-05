@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Employee Leave | Admin Panel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand" style="color: #ffff;">EMS Corp.</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="adminindex.html">HOME</a>
+                </li>
+                <li>
+                    <a href="addemployee.html">Add Employee</a>
+                </li>
+                <li>
+                    <a href="viewemployee.html">View Employee</a>
+                </li>
+                <li>
+                    <a href="assingpro.html">Assing Project</a>
+                </li>
+                <li>
+                    <a href="project.html">Project Status</a>
+                </li>
+                <li>
+                    <a href="salary.html">Salary Table</a>
+                </li>
+                <li class="active">
+                    <a href="empleave.html">Employee Leave</a>
+                </li>
+                <li>
+                    <a href="elogin.html">LOG OUT</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Body -->
+    <div class="container-fluid" style="margin-bottom: 50px;">
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr
+                        style="color: white;background-color:#31B404;font-size: 20px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+                        <th>Emp. ID</th>
+                        <th>Token</th>
+                        <th>Employee Name</th>
+                        <th>Start Date</th>
+                        <th>End Date</th>
+                        <th>Total Days</th>
+                        <th>Reason</th>
+                        <th>Status</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>101</td>
+                        <td>311</td>
+                        <td>Meet Patel</td>
+                        <td>05-12-2020</td>
+                        <td>15-12-2020</td>
+                        <td>10</td>
+                        <td>Covid 19</td>
+                        <td>Approved</td>
+                        <td><a href="#">Approve</a> | <a href="#">Cancel</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+     </div>
+
+        <!-- Footer -->
+        <nav class="navbar navbar-inverse navbar-fixed-bottom">
+            <div class="container-fluid">
+                <div class="text-center">
+                    <h4 style="color: #ffff;"> © 2020 Design by Abhishek Choksi & Meet Patel</h3>
+                </div>
+            </div>
+        </nav>
+</body>
+
+</html>

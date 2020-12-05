@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>My Profile | Employee Panel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand" style="color: #ffff;">EMS Corp.</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="empindex.html">HOME</a>
+                </li>
+                <li class="active">
+                    <a href="myprofile.html">My Profile</a>
+                </li>
+                <li>
+                    <a href="myproject.html">My Projects</a>
+                </li>
+                <li>
+                    <a href="app.html">Apply Leave</a>
+                </li>
+                <li>
+                    <a href="elogin.html">LOG OUT</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Body -->
+    <div class="container-fluid" style="margin-bottom: 50px;">
+        <div class="row">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4 well" style="background-color:white;">
+                <h1>My Info</h1>
+                <img src="images/no.jpg" alt="Profile Image" width="25%" height="25%" style="margin-bottom: 2%;">
+                <form class="form-horizontal" action="updateinfo.html" method="GET">
+                    <div class="form-group row">
+                        <div class="col-xs-6">
+                            <label for="fname">First Name</label>
+                            <input type="text" class="form-control" id="fname" value="Abhishek" readonly>
+                        </div>
+                        <div class="col-xs-6">
+                            <label for="lname">Last Name</label>
+                            <input type="text" class="form-control" id="lname" value="Choksi" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="email">Email ID</label>
+                            <input type="email" class="form-control" id="email" value="a.p.choksi420@gmail.com"
+                                readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="dob">Date of Birth</label>
+                            <input type="text" class="form-control" id="dob" value="05-01-2001" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="gender">Gender</label>
+                            <input type="text" class="form-control" id="gender" value="Male" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="cno">Contact Number</label>
+                            <input type="number" class="form-control" id="cno" value="7874006511" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="nid">NID</label>
+                            <input type="number" class="form-control" id="nid" value="5" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="address">Address</label>
+                            <textarea class="form-control" rows="3" id="address" placeholder="Surat"
+                                readonly></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="dept">Department</label>
+                            <input type="text" class="form-control" id="dept" value="IT" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="deg">Degree</label>
+                            <input type="text" class="form-control" id="deg" value="INT M.Sc.IT" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-xs-12">
+                            <label for="sal">Total Salary</label>
+                            <input type="number" class="form-control" id="sal" value="80000" readonly>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-success" style="margin-top: 5%;">Update Info</button>
+                </form>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <nav class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="container-fluid">
+            <div class="text-center">
+                <h4 style="color: #ffff;"> © 2020 Design by Abhishek Choksi & Meet Patel</h3>
+            </div>
+        </div>
+    </nav>
+</body>
+
+</html>

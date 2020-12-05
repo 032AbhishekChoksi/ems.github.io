@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Log In | EMS Corporation</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+  <!-- Header -->
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a href="index.html" class="navbar-brand" style="color: #ffff;">EMS Corp.</a>
+      </div>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a href="index.html">HOME</a>
+        </li>
+        <li class="active">
+          <a href="elogin.html">EMPLOYEE LOGIN</a>
+        </li>
+        <li>
+          <a href="alogin.html">ADMIN LOGIN</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Body -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4">
+      </div>
+      <div class="col-sm-4 well">
+        <h1 class="text-center">Employee Login</h1>
+        <form class="form-horizontal" action="empindex.html" method="GET">
+          <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+            <input id="eemail" type="text" class="form-control input-lg" name="eemail" placeholder="Email">
+          </div><br>
+          <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+            <input id="epassword" type="password" class="form-control input-lg" name="epassword" placeholder="Password">
+          </div><br>
+          <div class="checkbox">
+            <label><input type="checkbox" name="remember"> Remember me</label>
+          </div><br>
+          <button type="submit" class="btn btn-success btn-lg">Submit</button>
+        </form>
+      </div>
+      <div class="col-sm-4">
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <nav class="navbar navbar-inverse navbar-fixed-bottom">
+    <div class="container-fluid">
+      <div class="text-center">
+        <h4 style="color: #ffff;"> © 2020 Design by Abhishek Choksi & Meet Patel</h3>
+      </div>
+    </div>
+  </nav>
+</body>
+
+</html>

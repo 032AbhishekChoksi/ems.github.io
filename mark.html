@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Project Mark | Admin Panel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand" style="color: #ffff;">EMS Corp.</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="adminindex.html">HOME</a>
+                </li>
+                <li>
+                    <a href="addemployee.html">Add Employee</a>
+                </li>
+                <li>
+                    <a href="viewemployee.html">View Employee</a>
+                </li>
+                <li>
+                    <a href="assingpro.html">Assing Project</a>
+                </li>
+                <li class="active">
+                    <a href="project.html">Project Status</a>
+                </li>
+                <li>
+                    <a href="salary.html">Salary Table</a>
+                </li>
+                <li>
+                    <a href="empleave.html">Employee Leave</a>
+                </li>
+                <li>
+                    <a href="elogin.html">LOG OUT</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Body -->
+    <div class="container-fluid" style="margin-bottom: 50px;">
+        <div class="row">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4 well" style="background-color:white; padding: 2%;">
+                <h1>Project Mark</h1>
+                <form class="form-horizontal" action="project.html" method="GET">
+                    <div class="form-group row" style="margin-top: 5%;">
+                        <div class="col-xs-12">
+                            <label for="pname">Project Name</label>
+                            <input type="text" class="form-control" id="pname" value="Web Devlopment" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row" style="margin-top: 5%;">
+                        <div class="col-xs-12">
+                            <label for="ename">Employee Name</label>
+                            <input type="text" class="form-control" id="ename" value="Meet Patel" readonly>
+                        </div>
+                    </div>                    
+                    <div class="form-group row" style="margin-top: 5%;">
+                        <div class="col-xs-6">
+                            <label for="duedate">Due Date</label>
+                            <input type="text" class="form-control" id="duedate" value="10-12-2020" readonly>
+                        </div>
+                        <div class="col-xs-6">
+                            <label for="submisiondate">Submition Date</label>
+                            <input type="text" class="form-control" id="submisiondate" value="05-12-2020" readonly>
+                        </div>
+                    </div>
+                    <div class="form-group row" style="margin-top: 5%;">
+                        <div class="col-xs-12">
+                            <label for="assignmark">Assign Mark</label>
+                            <input type="number" class="form-control" id="assignmark">
+                        </div>
+                    </div>   
+                    <button type="submit" class="btn btn-success" style="margin-top: 5%;">Assign Mark</button>
+                </form>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <nav class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="container-fluid">
+            <div class="text-center">
+                <h4 style="color: #ffff;"> © 2020 Design by Abhishek Choksi & Meet Patel</h3>
+            </div>
+        </div>
+    </nav>
+</body>
+
+</html>
