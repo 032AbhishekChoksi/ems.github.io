@@ -1,4 +1,4 @@
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 **EMPLOYEE MANAGEMENT SYSTEM** 
 
@@ -69,7 +69,7 @@ By
 |||
 
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.005.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 **CHAPTER 3** 
 
@@ -98,7 +98,7 @@ An  employee  management  system  managed  the  status  of  the  employee,  the 
 - The admin will add an employee and a default password and employee id will be generated and sent to the new employee’s email. 
 - The HR manager will then have the ability to add an employee’s information to the database 
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.006.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 **CHAPTER 4** 
 
@@ -138,7 +138,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 5
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.008.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 **CHAPTER 3 System Analysis** 
 
@@ -163,7 +163,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 |11\. |Sir, it will take about 30 days for this website to be ready, do you mind? |Bipolar |
 |12\. |Hello sir, how may I help you? |Close ended |
 |13\. |Sir, can you tell me which of your staff will use the system you want? |Close ended |
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.009.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 
 
@@ -171,7 +171,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 | - | :- | - |
 |15\. |Sir, what information  would  you  use  for  your  company's  head  of department, Will you tell me? |Close ended |
 |16\. |Sir, what information  would  be  useful  for  your  company's  Human Resource, Will you tell me? |Close ended |
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 2. **Data Flow Diagram** 
 1. **Context level DFD** 
@@ -180,7 +180,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 **Fig. 3.2.1: Context level DFD** 
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 2. **Zero level DFD** 
 
@@ -188,7 +188,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 **Fig. 3.2.2: Zero level DFD** 
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 3. **First level DFD** 
 
@@ -198,7 +198,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 **This figure describes the maintain Leave Application** 
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.013.jpeg)
 
@@ -206,7 +206,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 **This figure describes the maintain Employee Details** 
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.008.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 **CHAPTER 4 System Design** 
 
@@ -215,47 +215,47 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.014.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Employee Login** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.015.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Add Employee (Admin Panel)** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.016.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.017.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Update Employee Info (Employee Panel)** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.018.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Assign Project (Admin Panel)** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.019.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Assign Project Mark (Admin Panel)** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.020.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Leave Apply (Employee Panel)** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.021.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 2. **Output Form (4 major process)** 
 - **Home Page** 
@@ -268,7 +268,7 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.023.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **View Employee** 
 
@@ -278,13 +278,13 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.025.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Employee Leave** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.026.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 **Employee Panel : -** 
 
@@ -292,23 +292,23 @@ EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.027.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **My Profile** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.028.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.029.jpeg)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **My Projects** 
 
 ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.030.png)
 
-EMPLOYEE MANAGEMENT SYSTEM ![](images/readme/Aspose.Words.834ec301-2f8c-4afa-8fb1-7c735b796f21.001.png)
+EMPLOYEE MANAGEMENT SYSTEM !
 
 - **Apply Leave** 
 
